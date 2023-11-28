@@ -1,0 +1,38 @@
+/**
+*   @file   Ex_1.c
+*   @version 1.0.1
+*   @brief   Write C Program to check whether that character is alphabet or not.
+*   @details This file contains the C Programming Application.
+	@author  Abdullah Tarek Ali
+*/
+
+#include<stdio.h>
+
+
+int main(){
+
+	unsigned char U_input = 0;
+
+
+	/* print message */
+	printf("Enter a character to check : ");
+	/* clear buffer */
+	fflush(stdout);
+	/* Read number form user */
+	scanf("%c", &U_input);
+
+	if(((U_input >= 'a') && (U_input <= 'z')) || ((U_input >= 'A') && (U_input <= 'Z')))
+	{
+		/* print message */
+		printf(" %c : is a alphabet  ");
+	}
+	else
+	{
+		/* print message */
+		printf(" Not alphabet ! : ");
+	}
+
+
+
+	return 0;
+}

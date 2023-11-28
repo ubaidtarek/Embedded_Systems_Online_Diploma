@@ -1,0 +1,28 @@
+16:17:34 **** Rebuild of configuration Debug for project H_2_EX_6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_2_EX_6.o "..\\H_2_EX_6.c" 
+gcc -o H_2_EX_6.exe H_2_EX_6.o 
+Info: Nothing to build for H_2_EX_6
+Info: Nothing to build for H_2_EX_6
+Info: Nothing to build for H_2_EX_6
+16:19:26 **** Incremental Build of configuration Debug for project H_2_EX_6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_2_EX_6.o "..\\H_2_EX_6.c" 
+gcc -o H_2_EX_6.exe H_2_EX_6.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file H_2_EX_6.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:19:35 **** Incremental Build of configuration Debug for project H_2_EX_6 ****
+Info: Internal Builder is used for build
+gcc -o H_2_EX_6.exe H_2_EX_6.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file H_2_EX_6.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:19:49 **** Incremental Build of configuration Debug for project H_2_EX_6 ****
+Info: Internal Builder is used for build
+gcc -o H_2_EX_6.exe H_2_EX_6.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file H_2_EX_6.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+16:20:50 **** Incremental Build of configuration Debug for project H_2_EX_6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_2_EX_6.o "..\\H_2_EX_6.c" 
+gcc -o H_2_EX_6.exe H_2_EX_6.o 
+Info: Nothing to build for H_2_EX_6

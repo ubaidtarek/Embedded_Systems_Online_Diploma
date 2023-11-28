@@ -1,0 +1,24 @@
+/**
+*   @file   Ex_6.c
+*   @version 1.0.1
+*   @brief   Write C Program to calculate sum of natural numbers.
+*   @details This file contains the C Programming Application.
+	@author  Abdullah Tarek Ali
+*/
+
+#include<stdio.h>
+
+
+int main(){
+
+	unsigned int Input_N = 0;
+
+	printf("Enter N of Numbers \n");
+	scanf("%d", &Input_N);
+
+	fflush(stdiout);
+
+
+
+	return 0;
+}

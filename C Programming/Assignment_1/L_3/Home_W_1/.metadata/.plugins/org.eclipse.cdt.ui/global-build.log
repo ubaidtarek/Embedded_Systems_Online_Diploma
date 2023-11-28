@@ -1,0 +1,113 @@
+01:56:16 **** Incremental Build of configuration Debug for project H_1_E3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E3.o "..\\H_1_E3.c" 
+gcc -o H_1_E3.exe H_1_E3.o 
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+02:10:03 **** Incremental Build of configuration Debug for project H_1_E3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E3.o "..\\H_1_E3.c" 
+gcc -o H_1_E3.exe H_1_E3.o 
+02:10:03 **** Rebuild of configuration Debug for project H_1_E4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E4.o "..\\H_1_E4.c" 
+gcc -o H_1_E4.exe H_1_E4.o 
+Info: Nothing to build for H_1_E4
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+02:32:29 **** Incremental Build of configuration Debug for project H_1_E4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E4.o "..\\H_1_E4.c" 
+gcc -o H_1_E4.exe H_1_E4.o 
+02:32:30 **** Rebuild of configuration Debug for project H_1_E5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E5.o "..\\H_1_E5.c" 
+gcc -o H_1_E5.exe H_1_E5.o 
+Info: Nothing to build for H_1_E5
+Info: Nothing to build for H_1_E5
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1_E4
+02:42:27 **** Incremental Build of configuration Debug for project H_1_E5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E5.o "..\\H_1_E5.c" 
+gcc -o H_1_E5.exe H_1_E5.o 
+02:42:27 **** Rebuild of configuration Debug for project H_1_E6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E6.o "..\\H_1_E6.c" 
+gcc -o H_1_E6.exe H_1_E6.o 
+Info: Nothing to build for H_1_E6
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1_E4
+Info: Nothing to build for H_1_E5
+02:43:19 **** Incremental Build of configuration Debug for project H_1_E6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E6.o "..\\H_1_E6.c" 
+gcc -o H_1_E6.exe H_1_E6.o 
+Info: Nothing to build for H_1_E6
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1_E4
+Info: Nothing to build for H_1_E5
+02:44:59 **** Incremental Build of configuration Debug for project H_1_E6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E6.o "..\\H_1_E6.c" 
+gcc -o H_1_E6.exe H_1_E6.o 
+Info: Nothing to build for H_1_E6
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1_E4
+Info: Nothing to build for H_1_E5
+02:45:18 **** Incremental Build of configuration Debug for project H_1_E6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E6.o "..\\H_1_E6.c" 
+gcc -o H_1_E6.exe H_1_E6.o 
+Info: Nothing to build for H_1_E6
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1_E4
+Info: Nothing to build for H_1_E5
+02:45:48 **** Incremental Build of configuration Debug for project H_1_E6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E6.o "..\\H_1_E6.c" 
+gcc -o H_1_E6.exe H_1_E6.o 
+Info: Nothing to build for H_1_E6
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+03:09:07 **** Incremental Build of configuration Debug for project H_1_E4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E4.o "..\\H_1_E4.c" 
+gcc -o H_1_E4.exe H_1_E4.o 
+Info: Nothing to build for H_1_E5
+03:09:08 **** Incremental Build of configuration Debug for project H_1_E6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E6.o "..\\H_1_E6.c" 
+gcc -o H_1_E6.exe H_1_E6.o 
+03:09:08 **** Rebuild of configuration Debug for project H_1_E7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E7.o "..\\H_1_E7.c" 
+..\H_1_E7.c: In function 'main':
+..\H_1_E7.c:26:15: error: 'NubmerOne' undeclared (first use in this function)
+  NumberOne = (NubmerOne - NumberTwo);
+               ^~~~~~~~~
+..\H_1_E7.c:26:15: note: each undeclared identifier is reported only once for each function it appears in
+Info: Nothing to build for H_1
+Info: Nothing to build for H_1_E2
+Info: Nothing to build for H_1_E3
+Info: Nothing to build for H_1_E4
+Info: Nothing to build for H_1_E5
+Info: Nothing to build for H_1_E6
+03:09:41 **** Incremental Build of configuration Debug for project H_1_E7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o H_1_E7.o "..\\H_1_E7.c" 
+gcc -o H_1_E7.exe H_1_E7.o 
+Info: Nothing to build for H_1_E7
